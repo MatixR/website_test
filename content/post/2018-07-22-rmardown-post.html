@@ -1,0 +1,30 @@
+---
+title: Rmardown Post
+author: Xuankai
+date: '2018-07-22'
+slug: rmardown-post
+categories:
+  - R
+tags:
+  - ggplot2
+thumbnailImagePosition: left
+# thumbnailImage: ./images/logo.png
+# coverImage: ../../../images/transparent.png  
+coverSize: partial # full: for maximum cover size
+metaAlignment: center
+disable_comments: true
+output:
+  blogdown::html_page:
+    toc: false
+    fig_width: 8
+    css: "/css/my-style.css"
+    
+---
+
+  <link rel="stylesheet" href="/css/my-style.css" type="text/css" />
+
+
+<p>这是一个关于R的博文</p>
+<pre class="r"><code>library(ggplot2)
+ggplot(diamonds, aes(x=carat, y=price, color=clarity)) + geom_point()</code></pre>
+<p><img src="/website_test/post/2018-07-22-rmardown-post_files/figure-html/unnamed-chunk-1-1.png" width="768" /></p>

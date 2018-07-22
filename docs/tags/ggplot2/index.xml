@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ggplot2 on Hugo tranquilpeak theme</title>
+    <link>https://matixr.github.io/website_test/tags/ggplot2/</link>
+    <description>Recent content in Ggplot2 on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 22 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://matixr.github.io/website_test/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rmardown Post</title>
+      <link>https://matixr.github.io/website_test/2018/07/rmardown-post/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://matixr.github.io/website_test/2018/07/rmardown-post/</guid>
+      <description>这是一个关于R的博文
+library(ggplot2) ggplot(diamonds, aes(x=carat, y=price, color=clarity)) + geom_point() </description>
+    </item>
+    
+  </channel>
+</rss>

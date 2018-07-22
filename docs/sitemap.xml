@@ -3,268 +3,279 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/website_test/2015/07/hello-r-markdown/</loc>
+    <loc>https://matixr.github.io/website_test/2018/07/rmardown-post/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matixr.github.io/website_test/2015/07/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</loc>
+    <loc>https://matixr.github.io/website_test/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2015/05/elements-showcase/</loc>
+    <loc>https://matixr.github.io/website_test/2015/05/elements-showcase/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2015/05/cover-image-showcase/</loc>
+    <loc>https://matixr.github.io/website_test/2015/05/cover-image-showcase/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2015/03/highlighted-code-showcase/</loc>
+    <loc>https://matixr.github.io/website_test/2015/03/highlighted-code-showcase/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2014/10/tags-plugins-showcase/</loc>
+    <loc>https://matixr.github.io/website_test/2014/10/tags-plugins-showcase/</loc>
     <lastmod>2014-10-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2014/08/hidden-social-section-showcase/</loc>
+    <loc>https://matixr.github.io/website_test/2014/08/hidden-social-section-showcase/</loc>
     <lastmod>2014-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2014/08/hidden-tag-section-showcase/</loc>
+    <loc>https://matixr.github.io/website_test/2014/08/hidden-tag-section-showcase/</loc>
     <lastmod>2014-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2014/08/hidden-pagination-showcase/</loc>
+    <loc>https://matixr.github.io/website_test/2014/08/hidden-pagination-showcase/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2014/08/video-integrations-showcase/</loc>
+    <loc>https://matixr.github.io/website_test/2014/08/video-integrations-showcase/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2013/10/chinese-test/</loc>
+    <loc>https://matixr.github.io/website_test/2013/10/chinese-test/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2013/02/image-gallery-showcase/</loc>
+    <loc>https://matixr.github.io/website_test/2013/02/image-gallery-showcase/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/2013/01/japanese-test/</loc>
+    <loc>https://matixr.github.io/website_test/2013/01/japanese-test/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website_test/archives/</loc>
+    <loc>https://matixr.github.io/website_test/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/categories/</loc>
+    <loc>https://matixr.github.io/website_test/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/chinese/</loc>
+    <loc>https://matixr.github.io/website_test/tags/chinese/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/cover-image/</loc>
+    <loc>https://matixr.github.io/website_test/tags/cover-image/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/dailymotion/</loc>
+    <loc>https://matixr.github.io/website_test/tags/dailymotion/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/disqus/</loc>
+    <loc>https://matixr.github.io/website_test/tags/disqus/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/categories/features/</loc>
+    <loc>https://matixr.github.io/website_test/categories/features/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/github-theme/</loc>
+    <loc>https://matixr.github.io/website_test/tags/ggplot2/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matixr.github.io/website_test/tags/github-theme/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/google-analytics/</loc>
+    <loc>https://matixr.github.io/website_test/tags/google-analytics/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/gravatar/</loc>
+    <loc>https://matixr.github.io/website_test/tags/gravatar/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/hexo-theme/</loc>
+    <loc>https://matixr.github.io/website_test/tags/hexo-theme/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/highlight-code/</loc>
+    <loc>https://matixr.github.io/website_test/tags/highlight-code/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/html-elements/</loc>
+    <loc>https://matixr.github.io/website_test/tags/html-elements/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>https://matixr.github.io/website_test/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/image-gallery/</loc>
+    <loc>https://matixr.github.io/website_test/tags/image-gallery/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/japanese/</loc>
+    <loc>https://matixr.github.io/website_test/tags/japanese/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/markdown/</loc>
+    <loc>https://matixr.github.io/website_test/tags/markdown/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/pagination/</loc>
+    <loc>https://matixr.github.io/website_test/tags/pagination/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/plot/</loc>
+    <loc>https://matixr.github.io/website_test/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/post/</loc>
+    <loc>https://matixr.github.io/website_test/post/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matixr.github.io/website_test/categories/r/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matixr.github.io/website_test/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/categories/r/</loc>
+    <loc>https://matixr.github.io/website_test/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/website_test/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/website_test/categories/releases/</loc>
+    <loc>https://matixr.github.io/website_test/categories/releases/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/responsive/</loc>
+    <loc>https://matixr.github.io/website_test/tags/responsive/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/social/</loc>
+    <loc>https://matixr.github.io/website_test/tags/social/</loc>
     <lastmod>2014-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/tag-plugins/</loc>
+    <loc>https://matixr.github.io/website_test/tags/tag-plugins/</loc>
     <lastmod>2014-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/</loc>
+    <loc>https://matixr.github.io/website_test/tags/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/tags/</loc>
+    <loc>https://matixr.github.io/website_test/tags/tags/</loc>
     <lastmod>2014-08-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/test/</loc>
+    <loc>https://matixr.github.io/website_test/tags/test/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/categories/tranquilpeak/</loc>
+    <loc>https://matixr.github.io/website_test/categories/tranquilpeak/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/videos-integration/</loc>
+    <loc>https://matixr.github.io/website_test/tags/videos-integration/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/vimeo/</loc>
+    <loc>https://matixr.github.io/website_test/tags/vimeo/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_test/tags/youtube/</loc>
+    <loc>https://matixr.github.io/website_test/tags/youtube/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
